@@ -1,0 +1,6 @@
+[submodule "options/lib/forge-std"]
+	path = options/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "options/lib/solmate"]
+	path = options/lib/solmate
+	url = https://github.com/transmissions11/solmate
