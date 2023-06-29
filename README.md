@@ -80,3 +80,14 @@ ___
 
 # Audit scope
 
+
+[options @ 817c62b24a8447870bdf4a618a3bc240f4cc86e3](https://github.com/Bond-Protocol/options/tree/817c62b24a8447870bdf4a618a3bc240f4cc86e3)
+- [options/src/bases/OptionToken.sol](options/src/bases/OptionToken.sol)
+- [options/src/fixed-strike/FixedStrikeOptionTeller.sol](options/src/fixed-strike/FixedStrikeOptionTeller.sol)
+- [options/src/fixed-strike/FixedStrikeOptionToken.sol](options/src/fixed-strike/FixedStrikeOptionToken.sol)
+- [options/src/fixed-strike/liquidity-mining/OTLM.sol](options/src/fixed-strike/liquidity-mining/OTLM.sol)
+- [options/src/fixed-strike/liquidity-mining/OTLMFactory.sol](options/src/fixed-strike/liquidity-mining/OTLMFactory.sol)
+- [options/src/periphery/TokenAllowlist.sol](options/src/periphery/TokenAllowlist.sol)
+
+
+
